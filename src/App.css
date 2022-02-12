@@ -8,3 +8,10 @@ img {
   display: table;
   margin: 0 auto;
 }
+
+.text {
+  text-align: center;
+  font-size: 30px;
+  color: blue;
+  font-weight: bold;
+}
