@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/love-formula/static/css/main.081e5bc5.css",
+    "main.css": "/love-formula/static/css/main.459dd56a.css",
     "main.js": "/love-formula/static/js/main.284816d5.js",
     "static/js/787.b9a85a8e.chunk.js": "/love-formula/static/js/787.b9a85a8e.chunk.js",
     "static/media/heart.png": "/love-formula/static/media/heart.79d06a740f70c36c7acd.png",
     "index.html": "/love-formula/index.html",
-    "main.081e5bc5.css.map": "/love-formula/static/css/main.081e5bc5.css.map",
+    "main.459dd56a.css.map": "/love-formula/static/css/main.459dd56a.css.map",
     "main.284816d5.js.map": "/love-formula/static/js/main.284816d5.js.map",
     "787.b9a85a8e.chunk.js.map": "/love-formula/static/js/787.b9a85a8e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.081e5bc5.css",
+    "static/css/main.459dd56a.css",
     "static/js/main.284816d5.js"
   ]
 }
