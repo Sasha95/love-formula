@@ -3,10 +3,8 @@ import "./App.css";
 
 const App = () => {
   return (
-    <div>
-      <div className="App">
-        <img src={Heart} alt={"heart"} />
-      </div>
+    <div className="App">
+      <img src={Heart} alt={"heart"} />
     </div>
   );
 };
