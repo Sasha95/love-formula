@@ -5,9 +5,9 @@ const App = () => {
   return (
     <div>
       <div className="App">
+        <div className="text">FORMULA LOVE</div>
         <img src={Heart} alt={"heart"} />
       </div>
-      <div className="text">FORMULA LOVE</div>
     </div>
   );
 };
